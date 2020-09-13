@@ -1,2 +1,2 @@
 # loratemp
-Simple temperature monitor over LoRaWan with Node backend and JS frontend
+Simple temperature monitor over LoRaWAN with Node backend and JS frontend
